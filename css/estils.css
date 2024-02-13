@@ -1,14 +1,14 @@
-.dual{
-    background-color: royalblue;
+.dual40{
+    background-color: rgb(69, 88, 145);
     color: white;
 }
 .dual80{
-    background-color: blueviolet;
+    background-color: rgb(255, 95, 255);
     color: white;
     opacity: 0.8;
 }
 .dual60{
-    background-color:brown;
+    background-color:rgb(241, 210, 72);
     color: white;
     opacity: 0.6;
 }
