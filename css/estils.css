@@ -3,12 +3,17 @@
     color: white;
 }
 .dual80{
-    background-color: rgb(255, 95, 255);
+    background-color: rgb(122, 152, 241);
     color: white;
     opacity: 0.8;
 }
 .dual60{
-    background-color:rgb(241, 210, 72);
+    background-color:rgb(0, 24, 241);
+    color: white;
+    opacity: 0.6;
+}
+.dual20{
+    background-color:rgb(46, 43, 32);
     color: white;
     opacity: 0.6;
 }
